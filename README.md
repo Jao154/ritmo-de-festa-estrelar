@@ -10,6 +10,7 @@ Uma localização em Português Brasileiro não oficial para o jogo Rhythm Heave
 ## Tradutores
 - LeonVic
 - Pseudo Polo
+- PedSen
 - Ovite
 - Lorenzowo
 - Menino David (Gráficos)
