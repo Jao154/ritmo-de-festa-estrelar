@@ -21,6 +21,7 @@ Uma localização em Português Brasileiro não oficial para o jogo Rhythm Heave
 - Adachi Holmes
 - LittyFairyFox
 - Hakata932
+- NickDSP (Revisão)
 
 ## Elenco de Dublagem
 - Luna Pedroso
